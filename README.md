@@ -8,7 +8,7 @@ The code of the project is our own and in the layout, although it follows the sa
 The application works client-side for the most part, taking advantage of the storage in localStorage and sessionStorage of the browser, so that the app follows a flow quite similar to that of a real store with its backend.
 
 ## View project :rocket:
-### [Deploy](https://kiron23-react-shop.netlify.app/)
+### [Deploy](https://matiaschiodo-react-shop.netlify.app/)
 
 ## Resources and Links :fountain:
 
@@ -26,7 +26,7 @@ The project is open to changes or suggestions. Constructive criticism of any kin
 ## Installation :electric_plug:
 Clone yardsales:
 ```
-git clone https://github.com/matiaschiodo/react-shop.git
+git clone https://kiron23/matiaschiodo/react-shop.git
  ```
 
 Install dependencies:
@@ -40,5 +40,7 @@ npm run start
 ```
 
 ## License :unlock:
+
+Copyright © 2021 [Matias Chiodo](https://github.com/kiron23)
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed
